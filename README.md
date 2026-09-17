@@ -31,7 +31,7 @@ best_model.pth — обученные веса модели.
 2. Установка зависимостей
 
 
-pip install torch torchvision timm pandas numpy scikit-learn pillow fastapi uvicorn python-multipart dicttoxml requests
+pip install torch torchvision timm pandas numpy scikit-learn pillow fastapi uvicorn python-multipart dicttoxml requests streamlit
 
 
 
